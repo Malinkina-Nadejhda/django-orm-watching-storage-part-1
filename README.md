@@ -23,6 +23,7 @@ pip install -r requirements.txt
    DB_PASSWORD=ваш_пароль
    DB_HOST=адрес_хоста
    DB_PORT=5432
+   SECRET_KEY=ваш_секретный_ключ_django
    ```
 
 ## Запуск и режимы работы
